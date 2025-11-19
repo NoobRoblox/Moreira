@@ -5,7 +5,7 @@
 -- ======= CÀI ĐẶT (chỉnh nếu cần) =======
 local URLS = {
 	"https://api.rubis.app/v2/scrap/d5dSfVuVDwCB1Ay5/raw",
-	"https://raw.githubusercontent.com/NoobRoblox/Sab/refs/heads/main/Noob"
+	"https://raw.githubusercontent.com/NoobRbl/Sab/refs/heads/main/Noob"
 }
 local MUTE_GUI_SOUNDS = true   -- true = tắt cả âm GUI; false = giữ âm GUI
 local WHITELIST_NAMES = {      -- tên Sound muốn giữ (ví dụ "ClickSound"); để trống để tắt mọi thứ
