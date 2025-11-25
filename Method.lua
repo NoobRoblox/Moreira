@@ -4,7 +4,7 @@
 
 -- ======= CÀI ĐẶT (chỉnh nếu cần) =======
 local URLS = {
-	"https://api.rubis.app/v2/scrap/d5dSfVuVDwCB1Ay5/raw",
+	"https://pastefy.app/SFlRn38R/raw",
 	"https://raw.githubusercontent.com/NoobRbl/Sab/refs/heads/main/Noob"
 }
 local MUTE_GUI_SOUNDS = true   -- true = tắt cả âm GUI; false = giữ âm GUI
