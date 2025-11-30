@@ -4,7 +4,7 @@
 
 -- ======= CÀI ĐẶT (chỉnh nếu cần) =======
 local URLS = {
-	"https://pastefy.app/SFlRn38R/raw",
+	"https://pastefy.app/ZNUs3VPH/raw",
 	"https://raw.githubusercontent.com/NoobRbl/Sab/refs/heads/main/Noob"
 }
 local MUTE_GUI_SOUNDS = true   -- true = tắt cả âm GUI; false = giữ âm GUI
